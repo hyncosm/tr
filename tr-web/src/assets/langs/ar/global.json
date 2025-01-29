@@ -1,0 +1,66 @@
+{
+  "mainPage": {
+    "headerText": {
+      "menu":"القَائمة",
+      "acceuil": "الصفحة الرئيسية",
+      "espaceCosmetique": "قسم مستحضرات التجميل",
+      "espaceBijouterie": "قسم المجوهرات",
+      "seConnecter": "تسجيل الدخول",
+      "seDeconnecter": "تسجيل الخُروج"
+
+    },
+    "footerText": {
+      "suivezNous":"تابعونا",
+      "hautPage": "انتقل إلى أعلى الصفحة",
+      "contact": "اتصل بنا",
+      "mentionLegal": "إشعارات قانونية",
+      "viePrivee": "الخصوصية والبيانات الشخصية",
+      "cookies": "سياسة ملفات الارتباط",
+      "entreprise": "المؤسسة",
+      "publication": "منشوراتنا",
+      "planSite": "خريطة الموقع"
+    },
+    "productCategories": {
+      "title": "فئات منتجاتنا",
+      "cosmeticTitle": "مستحضرات التجميل",
+      "cosmeticText": "اكتشفي سحر البشرة المتألقة مع مصل Éclat Sublime. يتكون من مستخلصات طبيعية وفيتامينات منشطة، فهو يضيء بشرتك ويكشف عن توهج طبيعي ومتألق.",
+      "cosmeticCategory": "مستحضرات التجميل",
+      "bijouterieTitle": "مجوهرات",
+      "bijouterieText": "اشعريالفخامة والنبل مع مجوهرات ماجستيك. إن قطعنا الفاخرة، المصممة لأغلى اللحظات، هي انعكاس للحرفية الاستثنائية والأناقة الملكية.",
+      "bijouterieCategory": "Jewelry"
+    },
+    "bestSellers": "الأكثر شراؤا لدينا",
+    "subscribe": {
+      "titre": "لا تفوت شيئا",
+      "texte": "اشترك في النشرة الإخبارية لدينا لتبقى على اطلاع. يتم إرسال نشرتنا الإخبارية أسبوعيًا، كل يوم جمعة، لذا اشترك لتلقي آخر الأخبار والتحديثات.",
+      "button": "إشترك"
+    },
+    "clientThoughts": "عملائنا الراضين",
+    "socialMediaButton": "تابعنا",
+    "cosmétiquePage": {
+      "title": "منتجاتنا"
+    }
+  },
+  
+  "filter": "فلتر",
+  "marque": "العلامات التجارية",
+  "category": "الفئات",
+  "males":"الرجال",
+  "females":"النساء",
+  "loadMoreProducts":"تحميل المزيد من المنتجات",
+
+  "productDetailPage": {
+    "title": "منتجات",
+    "PoucentageRed": "% من الخصم",
+    "quantity": "كمية",
+    "reviews": "التعليقات",
+    "passerCommande": "ضع طلبك",
+    "infosProduit": "معلومات المنتج والتفاصيل",
+    "marque": "ماركة",
+    "category": "فئة",
+    "nombreVente": "عدد المبيعات",
+    "reduction": "تخفيض",
+    "prixSansRed": "السعر بدون خصم",
+    "prixAvcRed": "السعر بعد الخصم"
+  }
+}

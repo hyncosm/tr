@@ -1,0 +1,65 @@
+{
+  "mainPage": {
+    "headerText": {
+      "menu":"menu",
+      "acceuil": "acceuil",
+      "espaceCosmetique": "espace cosmétiques",
+      "espaceBijouterie": "espace bijouterie",
+      "seConnecter": "se connecter",
+      "seDeconnecter": "se déconnecter"
+    },
+    "footerText": {
+      "suivezNous":"Suivez nous",
+      "hautPage": "Haut de la page",
+      "contact": "Contact",
+      "mentionLegal": "Mentions légales",
+      "viePrivee": "Vie Privée et Données Personnelles",
+      "cookies": "Politique des cookies",
+      "entreprise": "Entreprise Today ",
+      "publication": "Nos publications",
+      "planSite": "Plan du site"
+    },
+    "productCategories": {
+      "title": "Nos catégories de produits",
+      "cosmeticTitle": "Espace costémique",
+      "cosmeticText": "Découvrez la magie d'un teint radieux avec notre sérum Éclat Sublime. Formulé avec des extraits naturels et des vitamines revitalisantes, il illumine votre peau et révèle un éclat naturel et resplendissant.",
+      "cosmeticCategory": "Cosmétiques",
+      "bijouterieTitle": "Esapce bijouterie",
+      "bijouterieText": "Ressentez la grandeur et la noblesse avec Bijoux Majestueux. Nos pièces somptueuses, conçues pour les moments les plus précieux, sont le reflet d’un artisanat exceptionnel et d'une élégance royale.",
+      "bijouterieCategory": "Bijouterie"
+    },
+    "bestSellers": "Nos Best Sellers",
+    "subscribe": {
+      "titre": "Ne ratez rien!",
+      "texte": "Abonnez-vous à notre newsletter pour rester informé. Notre newsletter est envoyé par semaine, tous les Vendredis, alors abonnez-vous pour recevoir les dernières nouvelles et mises à jour.",
+      "button": "Abonnez-vous"
+    },
+    "clientThoughts": "L'avis de nos clients satisfaits",
+    "socialMediaButton": "Suivez-nous",
+    "cosmétiquePage": {
+      "title": "Notre gallerie de produits"
+    }
+  },
+  
+  "filter": "filtre",
+  "marque": "marque",
+  "category": "Categorie",
+  "males":"homme",
+  "females":"femmme",
+  "loadMoreProducts":"charger plus de produit",
+  
+  "productDetailPage": {
+    "title": "Produits",
+    "PoucentageRed": "% DE RÉDUCTION",
+    "quantity": "Quantité",
+    "reviews": "Revues",
+    "passerCommande": "Passer votre commande",
+    "infosProduit": "information sur produit",
+    "marque": "Marque",
+    "category": "Categorie",
+    "nombreVente": "Nombre de vente",
+    "reduction": "Réduction",
+    "prixSansRed": "Prix sans réduction",
+    "prixAvcRed": "Prix après réduction"
+  }
+}

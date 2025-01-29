@@ -1,0 +1,64 @@
+{
+  "mainPage": {
+    "headerText": {
+      "menu": "menu",
+      "acceuil": "home page",
+      "espaceCosmetique": "cosmetics section",
+      "espaceBijouterie": "jewelry section",
+      "seConnecter": "sign in",
+      "seDeconnecter": "sign out"
+    },
+    "footerText": {
+      "suivezNous": "Follow us",
+      "hautPage": "Top of the page",
+      "contact": "Contact",
+      "mentionLegal": "Legal notices",
+      "viePrivee": "Privacy and Personal Data",
+      "cookies": "Cookie policy",
+      "entreprise": "Company today",
+      "publication": "Our publications",
+      "planSite": "Site map"
+    },
+    "productCategories": {
+      "title": "Our products' categories",
+      "cosmeticTitle": "Cosmetics",
+      "cosmeticText": "Discover the magic of a radiant complexion with our Éclat Sublime serum. Formulated with natural extracts and revitalizing vitamins, it illuminates your skin and reveals a natural, resplendent glow.",
+      "cosmeticCategory": "Cosmetics",
+      "bijouterieTitle": "Jewelry",
+      "bijouterieText": "Feel the grandeur and nobility with Majestic Jewelry. Our sumptuous pieces, designed for the most precious moments, are a reflection of exceptional craftsmanship and regal elegance.",
+      "bijouterieCategory": "Jewelry"
+    },
+    "bestSellers": "Our Best Sellers",
+    "subscribe": {
+      "titre": "Miss nothing",
+      "texte": "Subscribe to our newsletter to stay informed. Our newsletter is sent weekly, every Friday, so subscribe to receive the latest news and updates.",
+      "button": "Subscribe"
+    },
+    "clientThoughts": "Our satisfied clients",
+    "socialMediaButton": "Follow us",
+    "cosmétiquePage": {
+      "title": "Our products"
+    }
+  },
+  "filter": "filter",
+  "marque": "Brand",
+  "category": "Category",
+  "males":"male",
+  "females":"female",
+  "loadMoreProducts":"load more product",
+
+  "productDetailPage": {
+    "title": "Products",
+    "PoucentageRed": "% OF DISCOUNT",
+    "quantity": "Quantity",
+    "reviews": "Reviews",
+    "passerCommande": "Place your order",
+    "infosProduit": "Product information and details",
+    "marque": "Brand",
+    "category": "Category",
+    "nombreVente": "Number of sales",
+    "reduction": "Discount",
+    "prixSansRed": "Price without discount",
+    "prixAvcRed": "Price after discount"
+  }
+}
