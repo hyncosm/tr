@@ -2,7 +2,7 @@
 import axios from 'axios';
 var qs = require('qs');
 
-let baseURL =  location.hostname.includes('local') ? "http://localhost:3330/api" : "https://cosmhync-1.onrender.com/api";
+let baseURL =  location.hostname.includes('local') ? "http://localhost:3330/api" : "https://tr-05st.onrender.com/api";
 
 const http = axios.create({
   baseURL: baseURL,
